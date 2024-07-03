@@ -1,0 +1,66 @@
+.main-content {
+  margin-left: 250px; /* Adjust based on Sidebar width */
+  padding: 20px;
+  flex: 1;
+}
+
+.breadcrumb {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.progress-bar {
+  height: 10px;
+  background-color: #ddd;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.progress {
+  height: 100%;
+  background-color: purple;
+}
+
+.progress-indicator {
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: #666;
+}
+
+.content {
+  margin-bottom: 20px;
+}
+
+.content h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.content h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.content p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.navigation {
+  margin-bottom: 20px;
+}
+
+.navigation button {
+  background-color: purple;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.discussion {
+  color: #666;
+  font-size: 14px;
+}
